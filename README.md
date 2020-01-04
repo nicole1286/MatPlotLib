@@ -1,2 +1,1 @@
-# MatPlotLib
-MatPlotHW
+Read and merge taxi csv’s into pandas data frames for analysis.  Group by city type and compare total rides, driver counts, and average fare.  Utilize aggregate functions and build pie charts and bubble plots to make the data more visually meaningful.  
